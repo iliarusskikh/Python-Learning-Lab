@@ -1,4 +1,6 @@
-# Docker-playground
+# Docker + MCP playground
+
+Notes and a small MCP calculator server packaged with Docker.
 
 ### Commands
 docker run -d -p 80:80 docker/getting-started
